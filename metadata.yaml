@@ -1,0 +1,29 @@
+_repo: Your-Negro-Neighbor_35256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brawley, Benjamin Griffith
+    alias: Brawley, B. G. (Benjamin Griffith)
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '4226'
+    url: http://www.gutenberg.org/2009/agents/4226
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Griffith_Brawley
+description: ''
+gutenberg_issued: '2011-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35256'
+  lccn: '18012720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans'
+title: Your Negro Neighbor
+url: http://www.gutenberg.org/ebooks/35256
